@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-I´m Daniel.
+I'm Daniel.
 
-Bachelor´s Degree in Computer Science.
+Bachelor´s Degree in Computer Science, Universidad de Guanajuato - CIMAT.
 
-Universidad de Guanajuato - CIMAT.
 
 Computer programmer, currently developing skills in software development and cloud computing. With a special taste in mathematics, I possess skills in statistics and machine learning.
 
@@ -34,5 +33,4 @@ Currently learning:
 3. GraphQL and DBs storage.
 4. FastAPI
 
-My goal is to learn how to deploy machine learning applications in the cloud ready for production. I think that these technologies can improve the world in many ways and I want to help.
-I am currently working on personal projects, but I am open to any kind of collaboration.
+My goal is to learn how to deploy machine learning applications in the cloud ready for production. I think that these technologies can improve the world in many ways and I want to help. I am currently working on personal projects, but I am open to any kind of collaboration.

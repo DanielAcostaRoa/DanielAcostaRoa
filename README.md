@@ -33,6 +33,6 @@ Currently learning:
 3. GraphQL and DBs storage
 4. FastAPI
 
-My goal is to learn how to deploy machine learning applications in the cloud ready for production. I think that these technologies can improve the world in many ways and I want to help. 
+My goal is to learn to deploy machine learning applications in the cloud ready for production. I think that these technologies can improve the world in many ways and I want to help. 
 
 I am currently working on personal projects, but I am open to any kind of collaboration.

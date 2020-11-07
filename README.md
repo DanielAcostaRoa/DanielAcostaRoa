@@ -25,12 +25,14 @@ Favorite Python frameworks:
 2. FastAPI
 
 Favorite Javascript library:
-1- React.js
+1. React.js
 
 Currently learning:
-1- Next.js framework
+1. Next.js framework
 2. Serverless (Lambda, Azure Functions, etc.)
-3. GraphQL and DBs storage.
+3. GraphQL and DBs storage
 4. FastAPI
 
-My goal is to learn how to deploy machine learning applications in the cloud ready for production. I think that these technologies can improve the world in many ways and I want to help. I am currently working on personal projects, but I am open to any kind of collaboration.
+My goal is to learn how to deploy machine learning applications in the cloud ready for production. I think that these technologies can improve the world in many ways and I want to help. 
+
+I am currently working on personal projects, but I am open to any kind of collaboration.

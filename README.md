@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-I´m Daniel 
-Bachelor´s Degree in Computer Science 
-Universidad de Guanajuato - CIMAT
+I´m Daniel.
+
+Bachelor´s Degree in Computer Science.
+
+Universidad de Guanajuato - CIMAT.
 
 Computer programmer, currently developing skills in software development and cloud computing. With a special taste in mathematics, I possess skills in statistics and machine learning.
 

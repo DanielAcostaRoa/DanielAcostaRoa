@@ -2,13 +2,9 @@
 
 I'm Daniel.
 
-Bachelor´s Degree in Computer Science, Universidad de Guanajuato - CIMAT.
-
-
-Computer programmer, currently developing skills in software development and cloud computing. With a special taste in mathematics, I possess skills in statistics and machine learning.
+Computer science, currently developing skills in software development and cloud computing. With a special taste in mathematics, I possess skills in statistics and machine learning.
 
 Favorite topics:
-
 1. Computer Vision
 2. NLP
 3. Dimension Reduction Algorithms
@@ -20,18 +16,18 @@ Favorite programming languages:
 2. Python
 3. Javascript
 
-Favorite Python frameworks:
+Python frameworks:
 1. Pytorch
 2. FastAPI
 
-Favorite Javascript library:
+Javascript library:
 1. React.js
 
 Currently learning:
 1. Next.js framework
-2. Serverless (Lambda, Azure Functions, etc.)
+2. Serverless
 3. GraphQL and DBs storage
-4. FastAPI
+4. Cloud Architecture Design
 
 My goal is to learn to deploy machine learning applications in the cloud ready for production. I think that these technologies can improve the world in many ways and I want to help. 
 

@@ -2,7 +2,7 @@
 
 I'm Daniel.
 
-Computer Scienst, currently developing skills in cloud computing and software engineering. I possess skills in optimization, statistics and machine learning, my goal is to learn to deploy machine learning applications ready for production. I think that these technologies can improve the world in many ways and I want to contribute. 
+Computer Scienst, currently developing skills in cloud computing and software engineering, I possess skills in optimization, statistics and machine learning. My goal is to learn to deploy machine learning applications ready for production, I think that these technologies can improve the world in many ways and I want to contribute. 
 
 Favorite topics:
 1. Deep Learning (Computer Vision and NLP)

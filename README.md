@@ -2,7 +2,7 @@
 
 **I'm Daniel**, B.D. in Computer Science,
 
-**Full-Stack Developer** currently learning **Cloud Computing** and **Software Architecture** patterns. I possess skills in **Numerical Optimization**, **Probability** and **Statistics**. My goal is to be able to develop **AI** applications for production. These technologies are changing many aspects of our lives, and it's an opportunity to **reinvent** a **world** with better opportunities for all.
+**Full-Stack Developer** currently learning **Cloud Computing** and **Software Architecture** patterns. I possess skills in **Numerical Optimization**, **Probability** and **Statistics**. My goal is to be able to develop **AI** applications for production. These technologies are changing many aspects of our lives, and it's an opportunity to **re-invent** a **world** with better opportunities for all.
 
 **Favorite topics:**
 1. Pattern Recognition

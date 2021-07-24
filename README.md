@@ -21,7 +21,7 @@ I'm Daniel, **Computer Scienst**.
 1. OpenCV
 2. Sklearn && Pandas
 3. PyThorch
-4. AWS SageMaker?
+4. AWS SageMaker
 
 **Front-end Libraries and Technologies:**
 1. React.js
@@ -30,7 +30,7 @@ I'm Daniel, **Computer Scienst**.
 
 **API and Backend Tools:**
 1. Express Server
-2. GraphQL Server
+2. GraphQL Apollo Server
 3. AWS API Gateway and AWS AppSync
 4. Serverless Tools (AWS Lambada, Azure ServerlessFunctions)
 

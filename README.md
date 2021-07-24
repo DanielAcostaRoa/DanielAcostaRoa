@@ -21,7 +21,7 @@ Computer Vision and ML tools:
 1. OpenCV
 2. Sklearn && Pandas
 3. PyThorch
-4. AWS SageMakerThese technologies are changing many aspects of our lives, and I try to help re-invent a world with better opportunities for all. 
+4. AWS SageMaker?
 
 Front-end Libraries and Technologies:
 1. React.js
@@ -32,7 +32,7 @@ API and Backend Tools:
 1. Express Server
 2. GraphQL Server
 3. AWS API Gateway and AWS AppSync
-4. Serverless Tools (AWS Lambada, Azure ServerlessFunctions)These technologies are changing many aspects of our lives, and I try to help re-invent a world with better opportunities for all. 
+4. Serverless Tools (AWS Lambada, Azure ServerlessFunctions)
 
 Full-Stack Tools:
 1. Next.js

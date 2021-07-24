@@ -1,6 +1,6 @@
-### Hi there 👋
+# Hi there 👋
 
-I'm Daniel, **Computer Scienst**.
+**I'm Daniel**, Computer Scienst && Software Engineer.
 
 **Full-Stack Developer** currently learning **Cloud Computing** and **Software Architecture** patterns. I possess skills in **Numerical Optimization**, **Probability** and **Statistics**. I am learning to creat **Machine Learning** and **Big Data** apps for production. These technologies are changing many aspects of our lives, and I want to  **re-invent** a **world** with better opportunities for all.
 

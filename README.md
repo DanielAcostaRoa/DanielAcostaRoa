@@ -33,7 +33,7 @@
 1. Express Server
 2. GraphQL Apollo Server
 3. AWS API Gateway and AWS AppSync
-4. Serverless Tools (AWS Lambada, Azure ServerlessFunctions)
+4. Serverless Functions (AWS Lambada, Azure ServerlessFunctions, etc.)
 
 **Full-Stack Tools:**
 1. Next.js
@@ -49,6 +49,6 @@
 1. Docker
 2. OpenMP, OpenMPI, CUDA
 3. Serverless Framework
-4. AW Cloud Native Framework.
+4. AWS Cloud Native Framework.
 
 I am currently working on personal projects, but **I am open to any kind of collaboration**.

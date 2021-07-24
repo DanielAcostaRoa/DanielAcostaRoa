@@ -2,11 +2,12 @@
 
 I'm Daniel, **Computer Scienst**.
 
-**Full-Stack Developer** currently developing skills in **Cloud Computing** and **Software Architecture**. I possess skills in **Numerical Optimization**, **Probability** and **Statistics**. I am learning to creat **Machine Learning** and **Big Data** apps for production. These technologies are changing many aspects of our lives, and I want to  **re-invent** a **world** with better opportunities for all.
+**Full-Stack Developer** currently learning **Cloud Computing** and **Software Architecture** patterns. I possess skills in **Numerical Optimization**, **Probability** and **Statistics**. I am learning to creat **Machine Learning** and **Big Data** apps for production. These technologies are changing many aspects of our lives, and I want to  **re-invent** a **world** with better opportunities for all.
 
 **Favorite topics:**
-1. Deep Learning (Computer Vision and NLP applications)
-2. Dimensional Reduction Algorithms
+1. Pattern Recognition
+2. Deep Learning (Computer Vision and NLP applications)
+3. Dimensional Reduction Algorithms
 4. Distributed Programming
 5. Cloud Architecture Design
 6. Product Design
@@ -47,6 +48,7 @@ I'm Daniel, **Computer Scienst**.
 **Other Technologies:**
 1. Docker
 2. OpenMP, OpenMPI, CUDA
-3. AW Cloud Native Framework.
+3. Serverless Framework
+4. AW Cloud Native Framework.
 
 I am currently working on personal projects, but **I am open to any kind of collaboration**.

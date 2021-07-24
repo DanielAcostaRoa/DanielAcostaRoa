@@ -2,7 +2,8 @@
 
 I'm Daniel.
 
-Computer Scienst && Full-Stack Developer, currently developing skills in cloud computing and software architecture. I possess skills in numerical optimization, probability and statistics.I am learning to develop applications based on Machine Learning and Big Data tools ready for production. These technologies are changing many aspects of our lives, and I try to help re-invent a world with better opportunities for all.
+**Computer Scienst** && **Full-Stack Developer**, currently developing skills in **Cloud Computing** and **Software Architecture**. I possess skills in **Numerical Optimization**, **Probability** and **Statistics**. So, I am learning to *Develop applications based on **Machine Learning** and **Big Data** tools ready for production. 
+These technologies are changing many aspects of our lives, and I try to  re-invent a better world with better opportunities for all.
 
 Favorite topics:
 1. Deep Learning (Computer Vision and NLP applications)

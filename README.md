@@ -40,10 +40,12 @@
 2. Blitz.js
 3. Ruby on Rails
 
-**Data Modeling and Conectors:**
+**Data Layer:**
 1. SQL: MySQL, PostegreSQL, AWS RDS,
 2. NOSQL: MongoDB, DynamoDB
 3. Prisma
+4. Data Storage: AWS S3
+5. Cache Memory: Redis
 
 **Other Technologies:**
 1. Docker

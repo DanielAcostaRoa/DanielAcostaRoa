@@ -30,10 +30,9 @@
 3. Apollo Client
 
 **API and Backend Tools:**
-1. Express Server
-2. GraphQL Apollo Server
-3. AWS API Gateway and AWS AppSync
-4. Serverless Functions (AWS Lambada, Azure ServerlessFunctions, etc.)
+1. GraphQL Apollo Server
+2. AWS API Gateway and AWS AppSync
+3. Serverless Functions (AWS Lambada, Azure ServerlessFunctions, etc.)
 
 **Full-Stack Tools:**
 1. Next.js

@@ -2,14 +2,15 @@
 
 **I'm Daniel**, BSc in Computer Science (UG-CIMAT),
 
-**Full-Stack Developer** currently learning **Cloud Computing**, **Software Architecture**. I possess skills in **Numerical Optimization**, **Probability** and **Statistics**, my goal is to be able to develop **AI** applications for production. These technologies are an opportunity to **re-invent a world with better opportunities for all**.
+I work as a **Fullstack Developer** and currently learning skills in **Software Architecture**. In college, I specialized in **Optimization**, **Statistics** and **Parallel Computing**, now my goal is to learn skills to develop **Machine Learning** applications that can serve millions of users. These technologies are an opportunity to **reinvent** the world with **better opportunities for all**. 
+
 
 **Favorite topics:**
-1. Pattern Recognition
-2. Deep Learning (Computer Vision and NLP applications)
-3. Dimensional Reduction Algorithms
-4. Distributed Programming
+1. Computer Vision
+2. Deep Learning
+3. Pattern Recognition
+4. Parallel Computing
 5. Cloud Architecture Design
 
 
-I am currently working on personal projects, but **I am open to any kind of collaboration**.
+**I am open to any kind of collaboration!**

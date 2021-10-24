@@ -8,9 +8,9 @@ I work as a **Fullstack Developer** and currently learning skills in **Software 
 **Favorite topics:**
 1. Computer Vision
 2. Deep Learning
-3. Pattern Recognition
 4. Parallel Computing
-5. Cloud Architecture Design
+5. Software Development
+6. Architecture Design
 
 
 **I am open to any kind of collaboration!**

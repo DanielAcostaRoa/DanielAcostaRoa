@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 
 **I'm Daniel**, BSc in Computer Science (UG-CIMAT),
 

@@ -7,10 +7,9 @@ I work as a **fullstack developer** and currently learning skills in **software 
 
 **Favorite topics:**
 1. Computer Vision
-2. Deep Learning
-3. Distributed Systems
-4. Pattern Recognition
-5. Software Design
+2. Distributed Systems
+3. Pattern Recognition
+4. Software Architecture
 
 
 **I am open to any kind of collaboration!**

@@ -7,9 +7,9 @@
 
 **Favorite topics:**
 1. Computer Vision
-2. Distributed Systems
-3. Pattern Recognition
-4. Software Architecture
+2. Pattern Recognition
+3. Software Architecture
+4. Numerical Optimization
 
 
 **I am open to any kind of collaboration!**

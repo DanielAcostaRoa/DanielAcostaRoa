@@ -1,8 +1,8 @@
 ## Hi 👋
 
-**I'm Daniel**, Computer Scientist
+**I'm Daniel**,
 
-Currently learning software architecture. I like **machine learning** topics, my goal is to learn skills to develop **machine learning systems** at scale. These technologies are an opportunity to **re-invent** the world with **better opportunities for all**. 
+Computer Scientist, currently learning **software architecture**. I like **machine learning** topics, my goal is to learn skills to develop **machine learning systems** at scale. These technologies are an opportunity to **re-invent** the world with **better opportunities for all**. 
 
 **Favorite topics:**
 1. Computer Vision

@@ -10,11 +10,8 @@ Computer Scientist, currently learning **software architecture**, I like **machi
 3. Software Architecture
 4. Numerical Optimization
 
-## Git stats
-
-See the [Readme Activity Graph](https://github.com/tranthaituananh/github-readme-activity-graph) to generate your contribution graph
+## Contribution Statistics
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DanielAcostaRoa&bg_color=1c1c1c&color=ffffff&line=069db1&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### Most used languages
-<img src="https://wakatime.com/share/@danielroa/8d634c26-828c-49bb-90f7-4d3374c41026.svg" width="80%" height="%">
+[![GitHub Streak](https://streak-stats.demolab.com?user=DanielAcostaRoa&theme=dark&border_radius=10&mode=weekly&fire=26B9DD&sideLabels=FFFFFF&currStreakNum=FFFFFF&border=FFFFFF&stroke=0AC1DD&background=202020&ring=0AC1DD&sideNums=FFFFFF&currStreakLabel=FFFFFF&dates=FFFFFF)](https://git.io/streak-stats) [![GitHub Streak](https://streak-stats.demolab.com?user=DanielAcostaRoa&theme=dark&border_radius=10&fire=26B9DD&sideLabels=FFFFFF&currStreakNum=FFFFFF&border=FFFFFF&stroke=0AC1DD&background=202020&ring=0AC1DD&sideNums=FFFFFF&currStreakLabel=FFFFFF&dates=FFFFFF)](https://git.io/streak-stats)

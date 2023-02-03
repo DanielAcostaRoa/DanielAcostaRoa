@@ -10,6 +10,7 @@ Computer Scientist, currently learning **software architecture**, I like **machi
 3. Software Architecture
 4. Numerical Optimization
 
+
 ## 📊 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=DanielAcostaRoa&theme=dark&hide_border=true&border_radius=10&mode=weekly&fire=26B9DD&sideLabels=FFFFFF&currStreakNum=FFFFFF&border=FFFFFF&stroke=0AC1DD&background=202020&ring=0AC1DD&sideNums=FFFFFF&currStreakLabel=FFFFFF&dates=FFFFFF)](https://git.io/streak-stats)
